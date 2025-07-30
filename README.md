@@ -36,7 +36,7 @@
 ## 🌐 Connect With Me
 
 - 🔗 <a href="https://www.linkedin.com/in/pthinhtang2608/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" color="#000" target="_blank">Linkedin</a>
-- 🖼️ [Portfolio](#)
+- 🖼️ [Portfolio](https://drive.google.com/file/d/13i7qeW8CmI2lvW2b57vDzIC6ZVLlmUfV/view?usp=sharing)
 - 🧰 [GitHub Projects](#)
 
 ---
