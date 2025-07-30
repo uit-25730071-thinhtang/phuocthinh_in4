@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ3ZzRoeWI5dmFseDJ6cXN3amx5bDNtaGxmcnFvbnJ1a2Vqc3ZpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sApq40JDeByB7rNGW/giphy.gif" width="200" alt="design gif">
+  <img src="https://img1.picmix.com/output/stamp/normal/0/3/5/7/1527530_dae1c.gif" width="200" alt="design gif">
 </p>
